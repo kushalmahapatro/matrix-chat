@@ -1,0 +1,21 @@
+PODS:
+  - Flutter (1.0.0)
+  - MatrixSDKCrypto (0.4.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - MatrixSDKCrypto (from `../../matrix-rust-sdk/bindings/apple`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  MatrixSDKCrypto:
+    :path: "../../matrix-rust-sdk/bindings/apple"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  MatrixSDKCrypto: da2b8a81f7e1989fc61ff85ed6aad92332beeb40
+
+PODFILE CHECKSUM: 84db984f6b3b629f6414b2e8c92b2a6d88121c42
+
+COCOAPODS: 1.16.2
